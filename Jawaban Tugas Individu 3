@@ -1,0 +1,18 @@
+1.  Tuliskan Sejarah kenapa kita pertama kali belajar programing language harus menggunakan “hello world”
+    
+    Orang yang pertama kali menulis program Hello World adalah Brian Kernighan. Ketika itu,
+    beliau menulis dokumentasi untuk bahasa pemrograman BCPL (Basic Combined Programming Language)
+    dan memberikan contoh program Hello World
+    
+2. Jelaskan arti dari => print() pada PL Python.   
+   
+   fungsi yang digunakan untuk memunculkan output yang ingin kita print pada console.
+
+3. Jelaskan arti dari => print(“Hello world”) pada PL Python 
+
+    memunculkan output text "Hello World" pada konsol
+    
+4. Praktikkan cara eksekusi PL python pada
+    a. Pada terminal
+    b. Pada vs-code
+   
